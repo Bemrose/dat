@@ -1,0 +1,24 @@
+,Month,Airport,Number of Delays,Total Flights,Percent Delayed,Airport Name,Delay Category
+0,Jan,ABE,74,316,0.234177215,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>23.3% and <30.8%
+1,Feb,ABE,51,291,0.175257732,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+2,Mar,ABE,70,369,0.189701897,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+3,Mar,ABI,22,145,0.151724138,"Abilene, TX: Abilene Regional",>8.3% and <23.3%
+4,Mar,ABQ,279,1892,0.147463002,"Albuquerque, NM: Albuquerque International Sunport",>8.3% and <23.3%
+5,Apr,ABE,58,365,0.15890411,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+6,Apr,ABI,22,172,0.127906977,"Abilene, TX: Abilene Regional",>8.3% and <23.3%
+7,Apr,ABQ,357,1960,0.182142857,"Albuquerque, NM: Albuquerque International Sunport",>8.3% and <23.3%
+8,May,ALO,7,58,0.120689655,"Waterloo, IA: Waterloo Regional",>8.3% and <23.3%
+9,May,AMA,70,476,0.147058824,"Amarillo, TX: Rick Husband Amarillo International",>8.3% and <23.3%
+10,May,ANC,93,1506,0.061752988,"Anchorage, AK: Ted Stevens Anchorage International",>0.8% and <8.3%
+11,Jun,ABE,66,350,0.188571429,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+12,Jun,ABI,31,170,0.182352941,"Abilene, TX: Abilene Regional",>8.3% and <23.3%
+13,Jul,ABQ,444,2256,0.196808511,"Albuquerque, NM: Albuquerque International Sunport",>8.3% and <23.3%
+14,Jul,ABR,9,61,0.147540984,"Aberdeen, SD: Aberdeen Regional",>8.3% and <23.3%
+15,Aug,BGR,110,455,0.241758242,"Bangor, ME: Bangor International",>23.3% and <30.8%
+16,Aug,BHM,298,1617,0.184291899,"Birmingham, AL: Birmingham-Shuttlesworth International",>8.3% and <23.3%
+17,Sep,ASE,41,373,0.109919571,"Aspen, CO: Aspen Pitkin County Sardy Field",>8.3% and <23.3%
+18,Sep,ATL,4324,31525,0.137160983,"Atlanta, GA: Hartsfield-Jackson Atlanta International",>8.3% and <23.3%
+19,Oct,AVL,106,763,0.138925295,"Asheville, NC: Asheville Regional",>8.3% and <23.3%
+20,Nov,ALB,147,1000,0.147,"Albany, NY: Albany International",>8.3% and <23.3%
+21,Dec,BQK,14,87,0.16091954,"Brunswick, GA: Brunswick Golden Isles",>8.3% and <23.3%
+22,Dec,BQN,56,204,0.274509804,"Aguadilla, PR: Rafael Hernandez",>23.3% and <30.8%
