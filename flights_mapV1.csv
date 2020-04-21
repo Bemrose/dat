@@ -1,0 +1,16 @@
+,Month,Airport,Number of Delays,Total Flights,Percent Delayed,Airport Name,Delay Category
+0,Jan,ABE,74,316,0.234177215,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>23.3% and <30.8%
+1,Feb,ABE,34,169,0.201183432,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+2,Mar,ABE,257,1800,0.142777778,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+3,Apr,ABE,9,62,0.14516129,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+4,May,ABE,11,83,0.13253012,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+5,Jun,ABE,23,111,0.207207207,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+6,Jul,ABE,21,97,0.216494845,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+7,Aug,ABE,20,310,0.064516129,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>0.8% and <8.3%
+8,Sep,ABE,0,9,0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",<0.8%
+9,Oct,ABE,4,52,0.076923077,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>0.8% and <8.3%
+10,Nov,ABE,38,267,0.142322097,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+11,Dec,ABE,74,284,0.26056338,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>23.3% and <30.8%
+12,Jan,ABE,200,1030,0.194174757,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+13,Feb,ABE,9,58,0.155172414,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
+14,Mar,ABE,40,417,0.095923261,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",>8.3% and <23.3%
